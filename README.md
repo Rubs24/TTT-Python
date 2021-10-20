@@ -8,3 +8,5 @@ As the game starts a blank board is displayed using "-"s as empy spaces and prom
 After each turn the program will check each row, column, and diagnol to see if there is a winner. After we will check if there are any more blank spaces on the board if there are none the game is a tie. If niether is the case we will switch the current player in this case from X to O. The process repeats until there is a win or a tie in which a trigger will be set off that gets the program out of the while loop that keeps the game going. 
 
 The resulting outcome is printed to the screen and the program is terminated. 
+
+This code is to serve as a foundation for a more advanced python Tic-Tac-Toe game which involves playing against various AIs. That future project is to be used in my attempt to land a junior or associate software development position.
